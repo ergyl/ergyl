@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A Java Enterprise Developer student from Sweden</h3>
 
-## 🐸 Hobbies
+## 🪐 Hobbies
 - Learning new things! 🌱
 - Binge-watching documentaries
 - Reading plenty of books on my e-reader
