@@ -5,6 +5,7 @@
     <p>I'm also a dad, a computer geek, a e-book binger and a motorcycle enthusiast.</p>
   <hr>
   <p><strong>✨ Techinical skills ✨</strong></p>
+  <p>This is the main tech stack I work with.</p>
 
 | Languages                    | Technologies                                      | Frameworks/Other                               |
 |------------------------------|--------------------------------------------------|-----------------------------------------------|
