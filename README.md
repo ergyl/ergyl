@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A Java Enterprise Developer student from Sweden</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Erik</h1>
+<h3>A future software developer from Sweden</h3>
+<p>Mostly into back end development and specifically C# and Java.</p>
+    <p>I'm also a dad, a computer geek, a e-book binger and a motorcycle enthusiast.</p>
+  <hr>
+  <p><strong>✨ Techinical skills ✨</strong></p>
 
-<!---
-ergyl/ergyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Languages                    | Technologies                                      | Frameworks/Other                               |
+|------------------------------|--------------------------------------------------|-----------------------------------------------|
+| <sub>C#, Java, SQL, JavaScript, TypeScript, HTML/CSS</sub> | <sub>.NET, Docker, Azure, JPA, MySQL, SQL Server, MongoDB, Azure Cosmos DB</sub> | <sub>Git, Bash, Entity Framework, Spring, Spring Boot, Hibernate, Maven, Gradle, Flyway, Vue</sub> |
+
+
+</div>
+  
