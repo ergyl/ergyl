@@ -8,7 +8,7 @@ A professional communicator turned software developer. Focused on back-end devel
 - ✨ Reading nonfiction books
 
 ## Tech stack 
-This is the main tech stack I work with.
+<p>This is the main tech stack I work with. Along with a wide range of testing frameworks for unit testing, integration testing, acceptance testing and E2E testing. </p>
 
 #### Backend
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -49,13 +49,5 @@ This is the main tech stack I work with.
           <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
    <img src="https://img.shields.io/badge/jenkins-%232C5263?logo=jenkins&logoColor=white" alt="Jenkins"/>
 </div>
-
-#### Testing
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white" alt="Mocha"/>
-      <img src="https://img.shields.io/badge/Playwright-%232EAD33?logo=playwright&logoColor=white" alt="Playwright"/>
-      <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"/>
-      <img src="https://img.shields.io/badge/selenium-%43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
-        <img src="https://img.shields.io/badge/Vitest-252529?logo=vitest&logoColor=white" alt="Vitest"/>
 </div>
 
