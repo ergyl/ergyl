@@ -5,28 +5,16 @@
 A professional communicator turned software developer. Focused on back-end development, especially in Java and C#, and I am continuously expanding my knowledge of new languages, tools, and technologies.
 - 👩🏻‍💻 Full-time student @ Java Enterprise Developer program
 - 🎧 Indie-/surf rock, soul, electronic, 60s and 70s vibes
-- ✨ Reading nonfiction books
 
 ## Tech stack 
-<p>This is the main tech stack I work with. Along with a wide range of testing frameworks for unit testing, integration testing, acceptance testing and E2E testing. </p>
+<p>These are the languages and frameworks that I primarily use. Also been using a wide range of testing frameworks for unit testing, integration testing, acceptance testing and E2E testing. </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
       <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" alt=".NET"/>
       <img src="https://img.shields.io/badge/Bash_Script-%23121011?logo=gnu-bash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white" alt="Spring"/>
-        <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white" alt="Spring"/>
             <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-</div>
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
-       <img src="https://img.shields.io/badge/SQLite-%2307405e?logo=sqlite&badge/logoColor=white" alt="Microsoft SQL Server"/>
 </div>
 <br>
 
@@ -40,14 +28,6 @@ A professional communicator turned software developer. Focused on back-end devel
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </div>
-<br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-   <img src="https://img.shields.io/badge/Gitlab%20CI-%23181717?logo=gitlab&logoColor=white" alt="Gitlab CI"/>
-    <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" alt="CircleCI"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-   <img src="https://img.shields.io/badge/jenkins-%232C5263?logo=jenkins&logoColor=white" alt="Jenkins"/>
-</div>
 </div>
 
