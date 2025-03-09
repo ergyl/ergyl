@@ -4,10 +4,10 @@
 ## About me
 A professional communicator turned software developer. Focused on back-end development, especially in Java and C#, and I am continuously expanding my knowledge of new languages, tools, and technologies.
 - 👩🏻‍💻 Full-time student @ Java Enterprise Developer program
-- 🎧 Indie-/surf rock, soul, electronic, 60s and 70s vibes
+- 🔎 Curious, dedicated and supportive
 
 ## Tech stack 
-<p>These are the languages and frameworks that I primarily use. Also been using a wide range of testing frameworks for unit testing, integration testing, acceptance testing and E2E testing. </p>
+<p>These are the languages and frameworks that I primarily use.</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
       <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
