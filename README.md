@@ -18,13 +18,15 @@ This is the main tech stack I work with.
       <img src="https://img.shields.io/badge/Bash_Script-%23121011?logo=gnu-bash&logoColor=white" alt="Bash"/>
       <img src="https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white" alt="Spring"/>
         <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white" alt="Spring"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+            <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
        <img src="https://img.shields.io/badge/SQLite-%2307405e?logo=sqlite&badge/logoColor=white" alt="Microsoft SQL Server"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
 #### Frontend
@@ -44,13 +46,8 @@ This is the main tech stack I work with.
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/>
    <img src="https://img.shields.io/badge/Gitlab%20CI-%23181717?logo=gitlab&logoColor=white" alt="Gitlab CI"/>
     <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white" alt="CircleCI"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
    <img src="https://img.shields.io/badge/jenkins-%232C5263?logo=jenkins&logoColor=white" alt="Jenkins"/>
-</div>
-
-#### Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="NPM"/>
 </div>
 
 #### Testing
